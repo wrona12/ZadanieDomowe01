@@ -6,6 +6,6 @@ public class Main {
     }
 
     private static void addSomething() {
-        System.out.println("Added something");
+        System.out.println("Added something great");
     }
 }
